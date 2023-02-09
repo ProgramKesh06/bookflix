@@ -1,0 +1,59 @@
+978-4-8648-1517-8,Douglas Adams,The Hitchhiker's Guide To The Galaxy,1979
+978-2-9079-5774-8,Richard Adams,Watership Down,1972
+978-2-7628-7611-6,Mitch Albom,The Five People You Meet in Heaven,2003
+978-0-0052-7040-0,Laurie Halse Anderson,Speak,1999
+978-9-1108-5867-1,Maya Angelou,I Know Why the Caged Bird Sings,1969
+978-5-6723-5571-9,Fredrik Backman,Anxious People,2019
+978-2-4323-9860-3,Isaac Asimov,Foundation Series,1951
+978-3-8433-3475-4,Ann Brashares,The Sisterhood of the Travelling Pants,2001
+978-7-9961-2179-7,Libba Bray,A Great and Terrible Beauty,2003
+978-1-8887-8888-4,Dan Brown,The Da Vinci Code,2003
+978-2-1393-5788-0,Meg Cabot,The Princess Diaries,2000
+978-3-8346-5325-3,Orson Scott Card,Ender's Game,1985
+978-2-9626-9782-5,Tom Clancy,The Hunt for Red October,1984
+978-1-6920-3350-7,Suzanne Collins,The Hunger Games,2008
+978-4-7550-6649-8,F. Scott Fitzgerald,The Great Gatsby,1925
+978-5-6972-3772-4,John Flanagan,Ranger's Apprentice Series,2004
+978-5-2916-7312-6,Cornelia Funke,Inkheart,2003
+978-7-3420-3634-8,William Gibson,Neuromancer,1984
+978-7-3491-3137-4,William Golding,Lord of the Flies,1954
+978-5-5003-2543-3,William Goldman,The Princess Bride,1973
+978-9-3072-2197-4,James Gurney,Dinotopia: A Land Apart from Time,1992
+978-3-2880-7183-2,Will Hobbs,Far North,1996
+978-3-1863-8170-5,Alice Hoffman,Practical Magic,1995
+978-6-4567-1110-3,Aldous Huxley,Brave New World,1932
+978-3-7949-6579-3,Guy Gavriel Kay,The Summer Tree,1984
+978-4-3775-7489-0,Daniel Keyes,Flowers For Algernon,1959
+978-4-3007-4860-2,Patrice Kindl,Owl in Love,1993
+978-3-1297-8461-7,Masashi Kishimoto,Naruto,1999
+978-8-0072-7051-0,Tite Kubo,Bleach (graphic novel),2002
+978-8-7029-2593-7,Elizabeth Laird,Kiss the Dust,1991
+978-4-8046-4357-1,Harper Lee,To Kill a Mockingbird,1960
+978-6-8028-0916-4,C S Lewis,The Lion the Witch and the Wardrobe,1950
+978-8-9226-5806-6,Robert Ludlum,The Bourne Series,1991
+978-6-7585-2077-9,Yann Martel,Life of Pi,2001
+978-1-5092-8277-7,Lurlene McDaniel,Breathless,2009
+978-1-2559-5141-5,Stephenie Meyer,Twilight Series,2005
+978-6-3508-4934-6,Garth Nix,Sabriel,1995
+978-3-3220-3752-7,George Orwell,Nineteen Eighty-Four (1984),1949
+978-8-6062-2598-0,Christopher Paolini,Eragon,2002
+978-9-0835-3750-4,Gary Paulsen,Hatchet,19987
+978-4-8399-8367-3,Jodi Picoult,My Sister's Keeper,2004
+978-4-3339-7019-3,Philip Pullman,The Golden Compass,1995
+978-9-2540-2838-1,J.K. Rowling,Harry Potter Series,1997
+978-4-5363-5845-3,Louis Sachar,Holes,1998
+978-0-0844-5071-7,Shueisha,Shonen Jump Series,2002
+978-6-8724-9163-4,Neil Shusterman,The Shadow Club,1988
+978-6-5936-3501-0,Jeff Smith,Bone Series,1991
+978-6-5207-0711-7,Art Spiegelman,Maus: A Survivor's Tale,1986
+978-3-3257-0016-9,Amy Tan,The Joy Luck Club,1989
+978-8-5190-4886-7,J R R Tolkien,The Lord of the Rings,1954
+978-7-5730-8689-1,J R R Tolkien,The Hobbit,1937
+978-1-8941-4104-8,Eric Walters,Shattered,2011
+978-9-5241-9384-9,H G Wells,The War Of The Worlds,1897
+978-4-3303-1461-7,Patricia C. Wrede,Dealing with Dragons,1990
+978-3-8912-7367-8,John Wyndham,The Chrysalids,1955
+978-6-2497-0050-5,F. Scott Fitzgerald,This Side of Paradise,1920
+978-1-1923-0145-8,Amor Towles,The Lincoln Highway,2021
+978-4-6763-5261-8,Maria Semple,Where's You Go Bernadette,2012
+978-5-7595-9830-5,Jose Saramago,Death with Interruptions,2005
