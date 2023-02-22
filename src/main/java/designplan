@@ -1,0 +1,162 @@
+when adding a book or member you use the same filename as current so when u do writre it will delete everything from file and everything should be rewritten
+if anything needs to be done for a new user just put in defalt values of my choice for all existsting users
+only when asked for recommendeds u must recalculate the vector score
+for the username for that book put that rateing.
+
+for rateings if u need arraylist from other class make method and put in arraylist as parameter so in mian u can call and put araaylist from other classes
+use .get arraylst in rating classs to add to that array list the rating
+do all writing into files in main method
+put years in manually for each user and read them in in the members class and them to array
+put in while loop
+string [] var = line.split (:);
+string [] var2 = var[0].split (,);
+.add by var2[0]
+.add by var2[0]
+
+
+
+        add name and year like first line of rating file hard code
+        get the real name by reading that file and redo the persons class
+
+        ratings class needs to add that rating to a array list and should get do file . writer in main
+
+
+
+
+        book class
+        4 instance varibles for book info
+        book constructor
+        read file
+        while the line is still there split the file data line by line by comma
+        add the indexs from array to repective array list
+        set and get all instance varible
+        add book method make sure isbn is not in file and add the info from parameter to respective arraylist
+
+        Persons class
+        set up array instace varbles
+        persons constructor
+        read file that is parameter
+        while line is there set up string arr that splits by :
+        add the correct index into age and name from the array that was split
+        catch exceptions
+        add person method which take 2 para'
+        add those para to arraylist name and age
+        person consrtuctor with para name and age
+        and call add person
+        default constructor with no parameters
+        setters and getters for both age and name arraylists
+
+        members class
+        arraylist for username creation year ratings and password
+        members constructor that calls a method and takes in a filename parameter
+        method add memberswhich checks if username is taken or not
+        else
+        add parameters from user to arraylists
+        and make all new users ratings 0
+        add that to ratings array
+        method to add new book for each of the users
+       make new array and make array with the ratings
+       for the size of the arraylist
+       add 0 to end of each useing concat
+       new constructor with 3 paramters with username pass and creation year
+       call add members class in here
+       readfile method
+       read file passed in as paramter
+       while a lin eis in file
+       split by :
+       then add respective indexs in array to instance varibles
+       catch exceptions
+       if account exists method checks if account name exists
+       by checking name array against parameter
+       is account name exist method checks is the username and password entered is correct
+       setters and getters for all arraylist instance varibles
+
+        rating class
+        instace varibles for book username and the rating to add
+        constructor use as a setter
+        array list instace varible too
+        setters and getters for all instance varibles
+
+        bookflix class
+        new objects for book, person, and members
+        initialize varribles that will be set by user
+        while option does not equal 8
+        if option is 1 ask for username and pass and take them in
+        take boolean and call members method is account name exists and give parameters
+        print out user loged in
+        if option is 2
+        ask name
+        ask uname
+        ask password
+        ask age
+        ask year joined
+        set all to varibles
+        call add members method
+        call add persons method
+        call options mathod which has all options possible
+        if option 3
+        ask book title
+        ask isbn number
+        ask author
+        ask creation year
+        and take all that into varible
+        call add book method
+        call add new book for each user method
+        show options
+        is option 4
+        make sure user logged in
+        print all titles of unrated books by getting the ratings of zero from ratings textfile and getting that index and getting that title
+        ask user for book title
+        ask user for what rating thy want to give
+        create object for a rating calling constructor that takes in uname title and rating
+        for the length of usernames arraylist
+        find the correct username by if statement
+        split up the ratings array by spaces and turn the review into a string
+        then go to the index of the username and the index of the book and add the review in
+        readd the new aarraylist to the rating arraylist in that index
+        if the book title is not found tell that to the user
+        id option is 5
+        put option to 1 and turn a boolean that tells if logged in to false
+        if option 6
+        make sure user logged in
+        find the index of the username with a for loop anf comparing them with if
+        get the ratings of that userindex and split it by spaces
+        for the length of that array add all the elements in that array to a arraylist
+        for the length of that arraylist get the book title and add it to a string var
+        add the rating to iot and print the username and the string var
+        display all options
+        find the index of the user name with a for loop and if
+        get the ratings of that username
+        split by spcae
+        for the length of the second split by space
+        mutiply the same indexs of the 2 users ratings and add them
+        add to a array list
+        then a for loop which find the highest number becides the score itself and gets that index
+        add all the indexs of ratings by the other user that the user has not rated and adds it into a arraylist
+        get the rating index and put into 5 or 3 as those are positive ratings
+        add those ratings to the final index of bookthen the code will print ou those books that are in that arraylist in the final index of book from titles
+        if option equals 8
+        write to file books and append to false
+        for the length of the authors arraylist
+        write isbn
+        write author from for loop index use obj get for all
+        write title
+        write year
+        exceptions
+        write to file ratings and append to false
+        for the length of name arraylist
+        write creation year from for loop index use obj get for all
+        write pass
+        write account name
+        write name
+        write age
+        seperate by semi colon
+        for the length of members
+        add the index of for loop of the ratings into a array
+        split by space
+        then add to array list
+        for the length of that array list print out all the ratings
+        exception
+
+
+
