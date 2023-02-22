@@ -88,7 +88,7 @@ public class Bookflix {
 							}
 						}
 					}
-					System.out.print("Please enter your the Book title: ");
+					System.out.print("Please enter your the Book title (Please spell and use case as seen above): ");
 					String rBookTitle = scan.nextLine();
 					System.out.print("Please enter the rating you want to add for this book options are (-5,-3,-1,0,1,3,5): ");
 					int ratingsFromUser = scan.nextInt();
